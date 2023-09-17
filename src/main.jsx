@@ -8,5 +8,5 @@ import { RouterProvider } from "react-router-dom";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <RecoilRoot>
     <RouterProvider router={router} />
-  </RecoilRoot>,
+  </RecoilRoot>
 );
